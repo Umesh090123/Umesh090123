@@ -1,7 +1,7 @@
-👋 Hi, I’m Umesh Sikka.
-👀 I’m interested in Software development and Web development.
-🤝 I’m looking to collaborate on real world projects :)
-📫 How to reach me : - umeshsikka0123@gmail.com
+- 👋 Hi, I’m Umesh Sikka.
+- 👀 I’m interested in Software development and Web development.
+- 🤝 I’m looking to collaborate on real world projects :)
+- 📫 How to reach me : - umeshsikka0123@gmail.com
 
 <!--
 **Umesh090123/Umesh090123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
