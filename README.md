@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Umesh Sikka.
-
 I’m interested in Software development and Web development.
-
 📫 How to reach me: www.linkedin.com/in/umeshsikka90 , umeshsikka0123@gmail.com
 
 <!--
