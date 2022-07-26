@@ -9,6 +9,14 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
+## About Me
+
+- 🌱 Interested in Machine Learning, Software Development and BlockChain.
+
+- ⚡ Looking to collaborate on real world projects :)
+
+- 😄 Pronouns: He/Him
+<br/>
 
 <!--
 **Umesh090123/Umesh090123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
