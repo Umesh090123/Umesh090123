@@ -16,6 +16,12 @@
 
 - 📫 How to reach me : - umeshsikka0123@gmail.com
 <br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/umeshsikka90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh-sikka" height="30" width="40" /></a>
+<a href="https://instagram.com/umeshsikka_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manteg_" height="30" width="40" /></a>
+
+</p>
 
 <!--
 **Umesh090123/Umesh090123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
