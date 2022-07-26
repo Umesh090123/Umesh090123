@@ -26,8 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/umeshsikka90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh-sikka" height="30" width="40" /></a>
 <a href="https://instagram.com/umeshsikka_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manteg_" height="30" width="40" /></a>
-<br>
-That's all from me, Thank you! :wink:
+
 </p>
 
 
