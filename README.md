@@ -6,6 +6,8 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manteg-singh&show_icons=true&locale=en&layout=compact" alt="manteg-singh" /></p>
+
 <h1> About Me </h1>
 
 - 🌱 Interested in Machine Learning, Software Development and BlockChain.
