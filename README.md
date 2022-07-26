@@ -6,8 +6,8 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manteg-singh&show_icons=true&locale=en&layout=compact" alt="manteg-singh" /></p>
+
+
 
 <h1> About Me </h1>
 
@@ -37,7 +37,7 @@
 <br>
 
 That's all from me, Thank you! :wink:
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Umesh090123&show_icons=true&locale=en&layout=compact" alt="Umesh090123" /></p>
 
 <!--
 **Umesh090123/Umesh090123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
